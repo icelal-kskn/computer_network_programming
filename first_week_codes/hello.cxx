@@ -32,7 +32,7 @@ int main(){
     return 9;
 }
 
-int tola(int x, int y){
+int topla(int x, int y){
     
     static char *buffer;
     buffer= new char[20];
